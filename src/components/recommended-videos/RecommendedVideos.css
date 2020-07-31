@@ -14,3 +14,8 @@
     font-weight: 600;
     font-size: larger;
 }
+
+.recommendedVideos__videos {
+    display: flex;
+    flex-wrap: wrap;
+}
