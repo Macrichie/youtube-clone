@@ -64,20 +64,20 @@ export default function RecommendedVideos() {
                     image="https://bingepost.com/wp-content/uploads/2020/03/MacBook-Pro-13-and-16-Inch-Behind-MacBook-Air.jpg"
                 />
                 <Video 
-                    title="Become a Fullstack Javascript Developer | 2020"
+                    title="How to build a Tik Tok Clone with REACT JS 🚀."
                     views="10M Views"
                     timestamp="1 day ago"
                     avatar="https://pbs.twimg.com/profile_images/1265383416436056065/xcZs0z8p_400x400.jpg"
                     channel="Olakunle Makanjuola"
-                    image="https://i.morioh.com/2019/12/31/b54bf6f1c01c.jpg"
+                    image="https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2019/07/tiktok-smartphone.jpg.webp"
                 />
                 <Video 
-                    title="Become a Fullstack Javascript Developer | 2020"
-                    views="10M Views"
-                    timestamp="1 day ago"
+                    title="Let's build Spotify Clone with REACT JS 🚀."
+                    views="20.5M Views"
+                    timestamp="18 day ago"
                     avatar="https://pbs.twimg.com/profile_images/1265383416436056065/xcZs0z8p_400x400.jpg"
                     channel="Olakunle Makanjuola"
-                    image="https://i.morioh.com/2019/12/31/b54bf6f1c01c.jpg"
+                    image="https://miro.medium.com/max/1200/1*nwlU17J34ToIIaQW4blOsw.jpeg"
                 />
 
             </div>
